@@ -1,5 +1,5 @@
-# oibsip_04
-<h3>CLI weather app using weather API</h3>
+# CLI weather app using weather API
+
 <p> a CLI weather app in Python that fetches and displays current weather data for a user-specified location (e.g., Bengaluru, IN) using a weather API. Show basic information such as temperature, humidity, and weather conditions.
 
 >Understanding the Requirements:
